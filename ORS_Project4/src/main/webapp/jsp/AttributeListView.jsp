@@ -125,9 +125,6 @@
             <br>
             <table>
                 <tr>
-                    <td align="center"><b>No records found</b></td>
-                </tr>
-                <tr>
                     <td align="right"><input type="submit" name="operation" value="<%= AttributeListCtl.OP_BACK %>"></td>
                 </tr>
             </table>
