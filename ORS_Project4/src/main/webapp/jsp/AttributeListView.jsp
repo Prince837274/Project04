@@ -24,7 +24,7 @@
             <jsp:useBean id="bean" class="com.rays.pro4.Bean.AttributeBean" scope="request"></jsp:useBean>
 
             <div align="center">
-                <h1><font color="navy">Attribute List</font></h1>
+                <h1><font color="navy">Attribute List 2</font></h1>
             </div>
 
             <div align="center" style="height: 15px; margin-bottom: 12px">
