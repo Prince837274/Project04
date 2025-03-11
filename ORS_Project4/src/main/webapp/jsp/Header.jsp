@@ -89,6 +89,9 @@
         <a href="<%=ORSView.FACULTY_LIST_CTL %>">Faculty List</b></a> |
         <a href="<%=ORSView.TIMETABLE_CTL %>" >Add TimeTable</b></a> |       
         <a href="<%=ORSView.TIMETABLE_LIST_CTL %>">TimeTable List</b></a> |
+         <a href="<%=ORSView.ATTRIBUTE_CTL %>" >Add Attribute</b></a> |       
+        <a href="<%=ORSView.ATTRIBUTE_LIST_CTL %>">Attribute List</b></a> |
+        
         <a target="blank" href="<%=ORSView.JAVA_DOC_VIEW%>">Java Doc</b></a> 
        <%
      		}
@@ -132,7 +135,9 @@
         <a href="<%=ORSView.SUBJECT_LIST_CTL%>">Subject List</b></a> |       
         <a href="<%=ORSView.TIMETABLE_CTL %>" >Add TimeTable</b></a> |       
         <a href="<%=ORSView.TIMETABLE_LIST_CTL %>">TimeTable List</b></a> |
+       
        <%
+       
      		}
  		%>
  		 <%
