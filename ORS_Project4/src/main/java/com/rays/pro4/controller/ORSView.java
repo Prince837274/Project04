@@ -49,6 +49,8 @@ public interface ORSView {
 		 public String TIMETABLE_LIST_VIEW = PAGE_FOLDER + "/TimeTableListView.jsp";
 		 public String ATTRIBUTE_VIEW = PAGE_FOLDER + "/AttributeView.jsp";
 		 public String ATTRIBUTE_LIST_VIEW = PAGE_FOLDER + "/AttributeListView.jsp";
+		 public String CUSTOMER_VIEW = PAGE_FOLDER + "/CustomerView.jsp";
+		 public String CUSTOMER_LIST_VIEW = PAGE_FOLDER + "/CustomerListView.jsp";
 		 
 		 
 		 
@@ -87,6 +89,8 @@ public interface ORSView {
 	    public String TIMETABLE_LIST_CTL = APP_CONTEXT + "/ctl/TimeTableListCtl";
 	    public String ATTRIBUTE_CTL = APP_CONTEXT + "/ctl/AttributeCtl";
 	    public String ATTRIBUTE_LIST_CTL = APP_CONTEXT + "/ctl/AttributeListCtl";
+	    public String CUSTOMER_CTL = APP_CONTEXT + "/ctl/CustomerCtl";
+	    public String CUSTOMER_LIST_CTL = APP_CONTEXT + "/ctl/CustomerListCtl";
 	    
 	    
 	    

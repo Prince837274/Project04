@@ -17,7 +17,7 @@
 <title>Attribute List</title>
 </head>
 <body>
-       <%@ include file="Header.jsp" %>
+       <%@ include file="Header.jsp" %>   
     <div align="center">
         <form action="<%= ORSView.ATTRIBUTE_LIST_CTL%>" method="post">
 
